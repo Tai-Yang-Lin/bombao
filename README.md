@@ -1,6 +1,7 @@
 # bombao
 
 2021-2022 pccu dic forth grade graduation peoduct
+因版本問題及時間進度問題，所以先放棄這版本
 
 ## Getting Started
 
